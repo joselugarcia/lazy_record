@@ -1,1 +1,1 @@
-added badges (#45)
+Add docs guide terminal images (#8819)
