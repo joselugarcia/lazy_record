@@ -1,1 +1,1 @@
-Add object blurring & object cropping modules in Ultralytics docs (#7434)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
