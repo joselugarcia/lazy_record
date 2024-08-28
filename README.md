@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+More robust PNNX downloads (#8866)
