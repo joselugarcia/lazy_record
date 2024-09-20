@@ -1,1 +1,1 @@
-ultralytics 8.1.3 ResNet models and lighter dependencies (#7700)
+Fix device counting method to account for double-digit device IDs (#8502)
