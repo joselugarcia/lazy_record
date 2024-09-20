@@ -1,1 +1,1 @@
-Fix device counting method to account for double-digit device IDs (#8502)
+Optimize function calls to method calls (#8507)
