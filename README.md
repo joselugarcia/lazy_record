@@ -1,1 +1,1 @@
-Fix OBB xywh-angle concatenation bug (#7404)
+Add quantization support to TensorFlow.js converter (#7008)
