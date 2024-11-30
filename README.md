@@ -1,1 +1,1 @@
-Add TFLite Edge TPU Docs Integrations Page  (#8900)
+Compare plt.get_backend() in lowercase (#8409)
